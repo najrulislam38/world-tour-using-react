@@ -3,3 +3,7 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 16px;
 }
+
+.country-flag-container img {
+    width: 100px;
+}
